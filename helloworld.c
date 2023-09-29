@@ -4,7 +4,7 @@
 int main(){
 
     //A nice greating
-    printf("Hello world!");
+    printf("This is another string!");
 
     printf("\nA program by Ryan McLoughlin.");
 }
