@@ -17,5 +17,6 @@ int main(){
 	average = sum/3;
 
 	printf("Average is %d", average);
+    printf("I dont know how to do min and max in C Sorry Ryan") //Whoopsies <-Paul
 
 }
